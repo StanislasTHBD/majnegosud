@@ -2,7 +2,7 @@
 <update>
   <item>
     <version>1.0.0.0</version>
-    <url>https://github.com/StanislasTHBD/majnegosud/releases/download/v1.0.0.0/SetupNegoSud.msi</url>
+    <url>https://github.com/StanislasTHBD/majnegosud/releases/download/SetupNegoSud.msi</url>
     <changelog>First release of application avec le Setup NegoSud.</changelog>
   </item>
 </update>
